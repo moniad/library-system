@@ -1,7 +1,6 @@
-# Library Project #
+# Library System #
 ``` created by Maciej Banaś, Monika Dziedzic, Hubert Guzowski, Sebastian Wilk. ```
 
-**A library system.**
 After registration you can view recomendations, search for books by title, author, genre etc. and reserve them.
 As a librarian you can add new books, borrow them and view statistics.
 Moreover readers get customized e-mail notifications regarding theirs reservations.
